@@ -1,7 +1,7 @@
 <template>
   <div>
-    <div>测试</div>
-    <div id="container">123</div>
+    <div>父应用</div>
+    <div id="container">父应用内容</div>
   </div>
 </template>
 
